@@ -24,6 +24,7 @@ MongoDB (Database Layer)
 
 
 To run:
+
  Install Node.js @ https://nodejs.org/en/download
 
  Clone or download code from https://github.com/arappa/ACC-Social-Media-FullStack-App
