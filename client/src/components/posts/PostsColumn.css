@@ -1,0 +1,10 @@
+.scrollable-column {
+    overflow-y: auto; 
+    height: calc(100vh + 10rem); 
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+}
+
+.scrollable-column::-webkit-scrollbar {
+    display: none;
+  }

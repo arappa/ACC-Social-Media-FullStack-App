@@ -1,0 +1,12 @@
+.nav-link {
+    border-radius: 1rem;
+    padding: 0.25rem 1rem;
+}
+
+.nav-link-btn {
+    padding: 0.25rem 1rem;
+}
+
+.nav-link:hover {
+    background-color: whitesmoke;
+}

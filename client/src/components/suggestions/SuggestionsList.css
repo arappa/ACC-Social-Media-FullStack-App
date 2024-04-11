@@ -1,0 +1,7 @@
+.user-link {
+    color: #2C5282;
+}
+
+.user-link:hover {
+    text-decoration: underline;
+}
