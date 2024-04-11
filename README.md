@@ -26,6 +26,9 @@ MongoDB (Database Layer)
 To run:
  Install Node.js @ https://nodejs.org/en/download
 
+ Clone or download code from https://github.com/arappa/ACC-Social-Media-FullStack-App
+ and open in IDE of your choice
+
  In the client starter code, run "npm install" and then "npm run dev" to start the client
 
  To run the server, use "node server.js"
